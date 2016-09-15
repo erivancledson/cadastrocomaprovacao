@@ -1,0 +1,4 @@
+valida o cadastro via email o usuario preenchi os dados clica no botão cadastrar e 
+recebe uma solicitação de confirmação da conta por email clica no link e o cadastro
+foi confirmado com sucesso. quando o cadastro não está confirmado no banco ele fica 
+0 quando ele for confirmado seu status passa a ser 1.
